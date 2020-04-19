@@ -62,5 +62,5 @@ class InstagramBot:
 
 
 
-joseBot = InstagramBot('josejuniorzago@gmail.com', 'jzfq3uo9')
-joseBot.login()
+igBot = InstagramBot('jose@gmail.com', '12341rgafda')
+igBot.login()
